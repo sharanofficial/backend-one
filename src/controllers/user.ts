@@ -320,6 +320,8 @@ const resendOtp = async (req: Request, res: Response) => {
   }
 };
 
+// test
+
 export {
   registerUser,
   getAllUser,
