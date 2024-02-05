@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sharan-1",
+    "password": "postgres",
+    "database": "backendone",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "sharan-1",
+    "password": "postgres",
+    "database": "backendone",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "sharan-1",
+    "password": "postgres",
+    "database": "backendone",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
